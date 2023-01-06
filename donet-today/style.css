@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    background: #FAFAFA;
+}
+.header{
+      
+}
+.header-title{
+    font-size: 65px;
+    font-family: inter;
+    font-weight: 700;
+    width: 524px;
+    height: 237px;
+}
+.header-description{
+
+}
+.bl{
+    display: flex;
+}
+.header-button{
+
+}
+.header-link{
+
+}
